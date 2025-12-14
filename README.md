@@ -1,6 +1,7 @@
 # Electoral_Data_Maps
 Mapas Electorales Elecciones 2024  - Python- GIS
 
+Proyecto en el que se descargaron todas las actas electorales del 2024 de la página oficial de la Comisión Estatal de Elecciones y se crearon tablas utilizando Python para luego crear mapas con GIS a nivel de distritos electorales, para ofrecer una vista más detallada y local del comportamiento electoral.
 
 
 ![Untitled-1-09](https://github.com/user-attachments/assets/86c78f73-9d30-406c-93d5-73c0a2c64d91)
